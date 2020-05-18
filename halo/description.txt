@@ -1,0 +1,21 @@
+this is a port from tapi to tmod made by generaaleric
+the original mod and all resources related to this mod are property of A_Judgementallizard
+if you are the owner of the original mod from this post:
+https://forums.terraria.org/index.php?threads/the-halo-mod.5815/
+please send me a message at discord: generaaleric#2406
+now if you DONT want me to do this or you want what i made so far back just send me a message
+
+the mod is not completly finished yet however i will make sure this is the case in a later status.
+
+this mod adds the following items:
+
+7 types of crafting materials-finished
+1 armour set-finished
+17 weapons - 3 weapon`s done
+1 npc-not started yet
+9 projectiles-not started yet
+1 buff-not started yet
+
+because this is my first mod EVER its slow with NO C# coding skill its all messing about till it works
+so im releasing it now when its part way finished and no bugs (as far as i know) present i will
+continue working on it till its complete i have no idea what i do afterwards.

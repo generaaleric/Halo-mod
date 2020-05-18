@@ -1,0 +1,3 @@
+author = A_judgementalLizard
+version = 0.50
+displayName = halo
