@@ -32,7 +32,7 @@ namespace halo.npc
 		public override float SpawnChance(NPCSpawnInfo spawnInfo)
 		{
 			return SpawnCondition.OverworldNightMonster.Chance * 3.5f;
-			//npc.downedMartians = true;
+			NPC.downedMartians = true;
 		}
 
 		public override void HitEffect(int hitDirection, double damage)

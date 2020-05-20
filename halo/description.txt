@@ -10,10 +10,11 @@ the mod is not completly finished yet however i will make sure this is the case 
 this mod adds the following items:
 
 7 types of crafting materials-finished
-1 armour set-finished
-17 weapons - 3 weapon`s done
+3 armour set-finished
+17 weapons - 6 weapon`s done
 1 npc-not started yet
-9 projectiles-not started yet
+a bunch of enemies- 2 done
+9 projectiles- 2 done
 1 buff-not started yet
 
 because this is my first mod EVER its slow with NO C# coding skill its all messing about till it works
